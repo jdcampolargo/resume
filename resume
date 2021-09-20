@@ -1,0 +1,184 @@
+```
+{
+  "firstname": "Juan David",
+  "lastname": "Campolargo",
+  "contact": {
+    "email": "jdcampolargo@hotmail.com",
+    "website": "www.juandavidcampolargo.com",
+    "linkedin": "linkedin.com/in/jdcampolargo",
+    "github": "github.com/jdcampolargo"
+  },
+  "skills": {
+    "details": [
+      {
+        "type": "Programming Languages",
+        "items": [
+          "Python",
+          "Java",
+          "Linux",
+          "C++",
+          "Javascript",
+          "HTML/CSS"
+        ]
+      },
+      {
+        "type": "Tools",
+        "items": [
+          "Git",
+          "Heroku",
+          "AWS",
+          "Node.js",
+          "Android Studio"
+        ]
+      },
+      {
+        "type": "Interests",
+        "items": [
+          "Creating technologies people didn't think they needed."
+        ]
+      }
+    ]
+  },
+  "github_projects": {
+    "items": [
+      {
+        "project_name": "The World of Ping Pong",
+        "tagline": "[github.com/jdcampolargo/pingpong](https://github.com/jdcampolargo/pingpong/)",
+        "description": [
+          "Live Interactive Multiplayer Ping Pong game."
+        ],
+        "technology_used": {
+          "tools": [
+            "JavaScript",
+            "HTML/CSS",
+            "Sockets"
+          ]
+        }
+      },
+      {
+        "project_name": "Subscriber Predictions",
+        "tagline": "[github.com/jdcampolargo/Subscriber-Predictions](http://github.com/jdcampolargo/Subscriber-Predictions)",
+        "description": [
+          "Machine Learning prediction model of my newsletter subscriber growth."
+        ],
+        "technology_used": {
+          "tools": [
+            "Python",
+            "scikit-learn"
+          ]
+        }
+      }
+    ]
+  },
+  "other_projects": {
+    "items": [
+      {
+        "headline": "Designed an Android app to rate university couses",
+        "points": [
+          "Used school API to access courses and built both backend and frontend."
+        ],
+        "technology_used": {
+          "tools": [
+            "Java",
+            "Android Studio"
+          ]
+        }
+      }
+    ]
+  },
+  "work_experience": {
+    "items": [
+      {
+        "title": "Program Participant",
+        "organization": "Google",
+        "from": "June 2020",
+        "to": "July 2020",
+        "details": [
+          "Participated in a 4-week intensive computer science summer program for high-achieving students",
+          "Worked on individual and group projects by using concepts such as variables, data types, functions, APIs, and libraries in JavaScript, HTML, CSS, and JSON",
+          "My final project was a Ping Pong multiplayer game that can be played simultaneously online",
+          "Presented this project live to more than 100 Google employees and community leaders"
+        ],
+        "technology_used": {
+          "tools": [
+            "Javascript",
+            "HTML/CSS",
+            "JSON"
+          ]
+        }
+      }
+    ]
+  },
+  "involvement": {
+    "organizations": [
+      "Member, Code For Venezuela, a nonprofit organization of technologists who are helping solve Venezuela's most important problems",
+      "Participant, Google CSSI, 4-week intensive computer science summer program for high-achieving students",
+      "Online Citizen, I write essays an online publication and make videos to think deeply ideas through a lens of Entrepreneurship, Science, and Engineering"
+    ]
+  },
+  "achievements": {
+    "items": [
+      "Author of Generation Optimism",
+      "(2) TEDx Speaker",
+      "Learned English in six months"
+    ]
+  },
+  "additional_info": {
+    "items": [
+      "Languages: English (fluent), Spanish (fluent), Portuguese (intermediate), Mandarin (basic)",
+      "Interests: Progress, Entrepreneurship, Science"
+    ]
+  },
+  "education": {
+    "schools": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Systems EngineeringComputer Science",
+        "institution": "University of Illinois at Urbana-Champaign",
+        "graduation_year": 2024
+      }
+    ]
+  },
+  "undergrad_courses": [
+    {
+      "name": "Introduction to Computer Science",
+      "url": "https://cs125.cs.illinois.edu/"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "url": "https://courses.grainger.illinois.edu/cs173/su2021/ALL-lectures//"
+    },
+    {
+      "name": "Data Structures",
+      "url": "https://courses.engr.illinois.edu/cs225/sp2021/"
+    },
+    {
+      "name": "Engineering Graphics & Design",
+      "url": "https://ise.illinois.edu/academics/courses/se101"
+    }
+  ],
+  "research_experience": {
+    "items": [
+      {
+        "title": "Biocomputational Physics Researcher",
+        "organization": "Pogorelov Lab, University of Illinois at Urbana-Champaign",
+        "from": "November 2020",
+        "to": "Present",
+        "points": [
+          "Selected among hundreds of undergraduate to take part in a prestigious research apprenticeship (URAP)",
+          "Worked with a Ph.D. student and Professor for 10-20 hours every week",
+          "Taught myself concepts in biology, chemistry, physics, and computer science to successfully create biological systems, run simulations, and perform analysis.",
+          "Poster/Presentation to be presented at the Undergraduate Research Symposium (https://www.youtube.com/watch?v=l2EZo5zE19I)",
+          "Used Python, Linux, supercomputers and clusters"
+        ]
+      }
+    ]
+  },
+  "show_assessments_on_resume": {
+    "required_assessment": true,
+    "optional_assessment_1": true,
+    "optional_assessment_2": true,
+    "optional_assessment_3": true
+  }
+}
+```
